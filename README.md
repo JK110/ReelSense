@@ -35,7 +35,7 @@ ReelSense is an explainable movie recommendation system built with the MovieLens
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/reelsense.git
+git clone [https://github.com/yourusername/reelsense.git](https://github.com/JK110/ReelSense.git)
 cd reelsense
 
 # Install dependencies
